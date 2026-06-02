@@ -1,37 +1,33 @@
-# 📊 Data Analytics Internship – SkillCraft Technology
+# SkillCraft Technology Data Analytics Internship
 
-Welcome to my internship repository! This repository contains the projects and tasks completed during my Data Analytics Internship at SkillCraft Technology. The internship focused on real-world data analysis, visualization, dashboard creation, and business insights generation using industry-standard tools and technologies.
+## Overview
+This repository contains all tasks completed during my Data Analytics Internship at SkillCraft Technology.
 
-## 🚀 Projects Included
+## Task 1 - Data Cleaning & Preprocessing
+- Cleaned and organized raw data
+- Handled missing values
+- Improved data quality for analysis
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* HR Employee Attrition Dashboard (Power BI)
-* Business Insights & ROI Analysis
-* Interactive Data Visualizations
+## Task 2 - Data Visualization
+- Created visual representations of data
+- Identified patterns and trends
+- Generated meaningful insights
 
-## 🛠 Tools & Technologies
+## Task 3 - Power BI Dashboard
+- Developed an interactive dashboard
+- Created KPIs and visual reports
+- Improved data-driven decision making
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Power BI
-* Google Colab
+## Skills Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Data Analysis
 
-## 📈 Skills Gained
+## Author
+Tanishq Vijay Palange
 
-* Data Cleaning & Transformation
-* Dashboard Development
-* Business Insight Generation
-* Data Visualization
-* Analytical Thinking
-* Report Preparation
-
-## 📌 Internship Company
-
-SkillCraft Technology
-
-This internship helped me strengthen my practical data analytics skills by working on real-world datasets and creating meaningful business insights through interactive visualizations and analysis.
-
+B.Tech CSE (Data Science) Student | AI & Analytics Enthusiast
